@@ -1,4 +1,4 @@
-# AuditIA de Cobranças — Confiabilidade na Cobrança de Taxas de Transação
+# PaySemart Solutions — Confiabilidade na Cobrança de Taxas de Transação
 
 > © 2025 Juan David Nieto García. A apresentação e os materiais contidos neste repositório são de autoria exclusiva de **Juan David Nieto García**. Todos os direitos reservados. É proibida a reprodução total ou parcial sem autorização prévia do autor.
 
