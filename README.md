@@ -1,4 +1,4 @@
-# PaySemart Solutions — Confiabilidade na Cobrança de Taxas de Transação
+# PaySmart Solutions — Confiabilidade na Cobrança de Taxas de Transação
 
 Todos os direitos reservados. É proibida a reprodução total ou parcial sem autorização prévia do autor.
 
